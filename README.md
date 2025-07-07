@@ -10,7 +10,7 @@ This project presents an interactive Power BI dashboard analyzing sales data fro
 
 
 
-!\[Dashboard Screenshot](assets/coffee\_shop\_dashboard.png)
+!\[Dashboard Screenshot](assets/cofeesales.png)
 
 
 
