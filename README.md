@@ -52,9 +52,8 @@ This project presents an interactive Power BI dashboard analyzing sales data fro
 
 \## 📁 Files
 
-\- `pbix/Coffee\_Shop\_Analysis.pbix`
+[Download Coffee Shop Power BI report](pbix/coffee-shop-analysis.pbix)
 
-\- `assets/coffee\_shop\_dashboard.png`
 
 
 
