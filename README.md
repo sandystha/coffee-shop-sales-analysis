@@ -2,7 +2,7 @@
 
 
 
-This project presents an interactive Power BI dashboard analyzing sales data from a multi-store coffee shop between \*\*January to June 2023\*\*.
+This project presents an interactive Power BI dashboard analyzing sales data from a multi-store coffee shop between January to June 2023
 
 
 
@@ -63,7 +63,7 @@ Sandip Shrestha
 
 📧 psth117@gmail.com  
 
-🔗 \[LinkedIn](h)
+🔗 \[LinkedIn](https://www.linkedin.com/posts/sandipstha12_powerbi-dataanalytics-retailanalysis-activity-7348026960578514945-kaei?utm_source=share&utm_medium=member_desktop&rcm=ACoAADrDvmkBJqRwnqfOZX-FgNvtrTva-t7GtpU)
 
 
 
